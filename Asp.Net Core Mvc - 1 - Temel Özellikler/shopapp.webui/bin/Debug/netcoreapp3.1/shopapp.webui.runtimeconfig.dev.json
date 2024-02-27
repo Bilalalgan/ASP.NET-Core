@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bilal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bilal\\.nuget\\packages"
+    ]
+  }
+}
